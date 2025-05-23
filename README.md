@@ -45,7 +45,7 @@ The LunarLander-v2 environment introduces a higher-dimensional state space and c
 ├── RL_Experiments.ipynb       # Jupyter notebook with code, results, and analysis
 ├── dqn.py                     # Base DQN code used for Lunar Lander agent
 ├── ddqn_checkpoint.pth        # Checkpointing the model at the best performance
-├── results/
+├── Results/
 ├── ├── Images files           # Results of the models
 ```
 
